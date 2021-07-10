@@ -1,4 +1,4 @@
 # Design Patterns 2021 Spring Assignment
-
+- Practiced design pattern with java.
 ## References
-- NTUT Design Pattern TA
+- Assignment requirement: NTUT Design Pattern TAs.
