@@ -1,0 +1,5 @@
+org/ntutssl/termfrequency/StopWordManagerTest.class
+org/ntutssl/termfrequency/DataStorageManagerTest.class
+org/ntutssl/termfrequency/WordFrequencyManagerTest.class
+org/ntutssl/termfrequency/IOHandlerTest.class
+org/ntutssl/termfrequency/WordFrequencyManagerStreamTest.class

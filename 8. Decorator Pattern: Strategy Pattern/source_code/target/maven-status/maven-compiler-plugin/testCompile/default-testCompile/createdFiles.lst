@@ -1,0 +1,12 @@
+org/ntutssl/shop/ShoppingCartTest.class
+org/ntutssl/shop/PayByBankTransferStrategyTest.class
+org/ntutssl/shop/RateDiscountDecoratorTest.class
+org/ntutssl/shop/MerchandiseTest.class
+org/ntutssl/shop/GoodsParserTest.class
+org/ntutssl/shop/EventTest.class
+org/ntutssl/shop/FixedDiscountDecoratorTest.class
+org/ntutssl/shop/GoodsBuilderTest.class
+org/ntutssl/shop/EventManagerTest.class
+org/ntutssl/shop/PayByCreditCardStrategyTest.class
+org/ntutssl/shop/ShopTest.class
+org/ntutssl/shop/CollectionTest.class
